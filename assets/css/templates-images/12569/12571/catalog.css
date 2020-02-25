@@ -3514,7 +3514,7 @@ position:absolute;z-index:98;display:inline-block;white-space:nowrap;border-radi
 
 .headFormat.f6.hd_new::before{border-top-width:62px;}
 
-.hd_frmt_f6_outer{position:absolute;height:45px;left:0px;right:0px;background:#6d2626;z-index:2;}
+.hd_frmt_f6_outer{position:absolute;height:70px;left:0px;right:0px;background:#6d2626;z-index:2;}
 
 .hd_frmt_f6_outer::before{position:absolute;content:'';left:0px;width:40%;height:100%;background:#fd5d5d;z-index:-1;}
 
